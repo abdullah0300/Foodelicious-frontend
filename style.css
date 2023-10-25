@@ -1,0 +1,172 @@
+.logo {
+  margin-top: -25px;
+  width: 150px;
+  height: auto
+}
+
+.logo2 {
+  height: 35px;
+  width: 35px;
+  margin-top: 2px;
+  border-radius: 50%;
+}
+
+.main {
+  background-color: #f9f9f9;
+}
+
+.cards-main {
+  width: 160vh;
+  height: 100vh;
+}
+
+.cards-main h5 {
+  color: rgb(65, 65, 65);
+  font-size: small;
+  font-weight: bold;
+  margin-top: 8px;
+  font-size: small;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.icon {
+  height: 20px;
+}
+
+.order-no {
+  background-color: #f9f9f9;
+  padding-left: 20px;
+}
+
+.btn:hover {
+  background-color: #e57c35 !important;
+  color: white;
+}
+
+.active {
+  background-color: #e57c35 !important;
+  color: white;
+
+
+}
+
+.topbar-button {
+  background-color: white;
+  width: 100%;
+}
+
+.topbar-content {
+  background-color: white;
+  height: 15%;
+  padding-left: 20px;
+}
+
+.card-size {
+  width: 18rem;
+  border-radius: 10px;
+  box-shadow: lightgray 0px 2px 2px 2px;
+}
+
+
+
+.total {
+  background-color: white;
+  border-radius: 15px;
+  height: 20%;
+  width: 90%;
+  box-shadow: lightgrey 0px 4px 4px 4px;
+  line-height: 2vh;
+  padding-top: 20px;
+}
+
+
+
+.order-content {
+  background-color: white;
+  border-radius: 15px;
+  height: 20%;
+  width: 90%;
+  box-shadow: lightgrey 0px 1px 0px 0px;
+  line-height: 2px;
+  padding-top: 20px;
+}
+
+
+.bar-top {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 25px;
+}
+
+.btn-bar-top {
+  background-color: #f9f9f9 !important;
+  border: none;
+  color: black;
+}
+
+.btn-bar-down {
+  background-color: #e57c35 !important;
+  border: none;
+  color: white;
+}
+
+.btn-outline {
+  border-color: #e57c35;
+}
+
+.sidebar-position {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: white;
+  width: 23%;
+  height: 100%;
+  box-shadow: 1px 5px 20px 0PX black;
+}
+
+.bg-all {
+  background-color: #f9f9f9;
+}
+
+.card {
+  width: 14rem;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+
+}
+
+.img-card {
+  border-radius: 10px;
+}
+
+.btn-bar-content {
+  background-color: #e57c35;
+  border-radius: 15px;
+}
+
+
+
+input {
+  border-radius: 10px;
+
+}
+
+
+
+
+
+
+/* try */
+
+/* CSS class for selected card */
+.selected-card {
+  background-color: orange;
+  border-color: orange;
+  color: white;
+}
+
